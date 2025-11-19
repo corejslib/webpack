@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.15 (2025-11-19)
+
+**Other changes:**
+
+- build(deps): bump webpack-bundle-analyzer\@5.0.0 (● [40442af](https://github.com/softvisio-node/webpack/commit/40442af); 👬 zdm)
+
+Compare with the previous release: [v1.6.14](https://github.com/softvisio-node/webpack/compare/v1.6.14...v1.6.15)
+
 ### v1.6.14 (2025-08-10)
 
 **Other changes:**
