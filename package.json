@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/webpack",
+    "name": "@c0rejs/webpack",
     "version": "1.6.15",
     "description": "Webpack wrapper",
     "keywords": [
@@ -19,7 +19,7 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@softvisio/core/*",
+        "#core/*": "@c0rejs/core/*",
         "#lib/*": "./lib/*.js",
         "#resources/*": "./resources/*"
     },
@@ -39,8 +39,8 @@
         "/src"
     ],
     "peerDependencies": {
-        "@softvisio/babel": "^1.0.0",
-        "@softvisio/core": "^7.172.0",
+        "@c0rejs/babel": "^1.0.0",
+        "@c0rejs/core": "^7.172.0",
         "babel-loader": "^10.0.0",
         "copy-webpack-plugin": "^13.0.0",
         "css-loader": "^7.0.0",

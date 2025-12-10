@@ -241,21 +241,21 @@ export default class extends WebpackComponent {
                     // .po
                     {
                         "test": /\.po$/,
-                        "loader": "@softvisio/webpack/loaders/po",
+                        "loader": "@c0rejs/webpack/loaders/po",
                         "options": { PoFile },
                     },
 
                     // .json
                     {
                         "test": /\.json$/,
-                        "loader": "@softvisio/webpack/loaders/json",
+                        "loader": "@c0rejs/webpack/loaders/json",
                         "options": { json5 },
                     },
 
                     // .yaml
                     {
                         "test": /\.yaml$/,
-                        "loader": "@softvisio/webpack/loaders/yaml",
+                        "loader": "@c0rejs/webpack/loaders/yaml",
                         "options": { yaml },
                     },
                 ],

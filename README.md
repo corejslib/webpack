@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://softvisio-node.github.io/webpack/>
+> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/webpack/>
 
 # Introduction
 
@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-npm install @softvisio/webpack
+npm install @c0rejs/webpack
 ```
 
 ## Usage

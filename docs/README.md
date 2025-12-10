@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @softvisio/webpack
+npm install @c0rejs/webpack
 ```
 
 ## Usage

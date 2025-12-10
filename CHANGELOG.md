@@ -106,11 +106,11 @@ Compare with the previous release: [v1.6.3](https://github.com/softvisio-node/we
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core 7.172.0 (● [5c6857e](https://github.com/softvisio-node/webpack/commit/5c6857e); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0 (● [5c6857e](https://github.com/softvisio-node/webpack/commit/5c6857e); 👬 zdm)
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
 
 - style: use uppercase crypto constants (● [4006240](https://github.com/softvisio-node/webpack/commit/4006240); 👬 zdm)
 
@@ -128,7 +128,7 @@ Compare with the previous release: [v1.6.2](https://github.com/softvisio-node/we
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
 
 Compare with the previous release: [v1.6.3-alpha.1](https://github.com/softvisio-node/webpack/compare/v1.6.3-alpha.1...v1.6.3-alpha.2)
 
@@ -136,7 +136,7 @@ Compare with the previous release: [v1.6.3-alpha.1](https://github.com/softvisio
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
 
 Compare with the previous release: [v1.6.3-alpha.0](https://github.com/softvisio-node/webpack/compare/v1.6.3-alpha.0...v1.6.3-alpha.1)
 
