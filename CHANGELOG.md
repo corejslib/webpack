@@ -4,157 +4,157 @@
 
 **Other changes:**
 
-- build(deps): bump webpack-bundle-analyzer\@5.0.0 (● [40442af](https://github.com/softvisio-node/webpack/commit/40442af); 👬 zdm)
+- build(deps): bump webpack-bundle-analyzer\@5.0.0 (● [40442af](https://github.com/c0rejs/webpack/commit/40442af); 👬 zdm)
 
-Compare with the previous release: [v1.6.14](https://github.com/softvisio-node/webpack/compare/v1.6.14...v1.6.15)
+Compare with the previous release: [v1.6.14](https://github.com/c0rejs/webpack/compare/v1.6.14...v1.6.15)
 
 ### v1.6.14 (2025-08-10)
 
 **Other changes:**
 
-- build(deps): bind webpack to ^5.100.2 (● [34a025e](https://github.com/softvisio-node/webpack/commit/34a025e); 👬 zdm)
+- build(deps): bind webpack to ^5.100.2 (● [34a025e](https://github.com/c0rejs/webpack/commit/34a025e); 👬 zdm)
 
-Compare with the previous release: [v1.6.13](https://github.com/softvisio-node/webpack/compare/v1.6.13...v1.6.14)
+Compare with the previous release: [v1.6.13](https://github.com/c0rejs/webpack/compare/v1.6.13...v1.6.14)
 
 ### v1.6.13 (2025-08-10)
 
 **Other changes:**
 
-- build(deps): bind webpack to \~5.100.2 (● [8b500e8](https://github.com/softvisio-node/webpack/commit/8b500e8); 👬 zdm)
+- build(deps): bind webpack to \~5.100.2 (● [8b500e8](https://github.com/c0rejs/webpack/commit/8b500e8); 👬 zdm)
 
-Compare with the previous release: [v1.6.12](https://github.com/softvisio-node/webpack/compare/v1.6.12...v1.6.13)
+Compare with the previous release: [v1.6.12](https://github.com/c0rejs/webpack/compare/v1.6.12...v1.6.13)
 
 ### v1.6.12 (2025-08-09)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: update json5 api (● [c01d08e](https://github.com/softvisio-node/webpack/commit/c01d08e); 👬 zdm)
+- \[PATCH] refactor: update json5 api (● [c01d08e](https://github.com/c0rejs/webpack/commit/c01d08e); 👬 zdm)
 
-- \[PATCH] refactor: update yaml api (● [019e68f](https://github.com/softvisio-node/webpack/commit/019e68f), [ae13f25](https://github.com/softvisio-node/webpack/commit/ae13f25); 👬 zdm)
+- \[PATCH] refactor: update yaml api (● [019e68f](https://github.com/c0rejs/webpack/commit/019e68f), [ae13f25](https://github.com/c0rejs/webpack/commit/ae13f25); 👬 zdm)
 
-Compare with the previous release: [v1.6.11](https://github.com/softvisio-node/webpack/compare/v1.6.11...v1.6.12)
+Compare with the previous release: [v1.6.11](https://github.com/c0rejs/webpack/compare/v1.6.11...v1.6.12)
 
 ### v1.6.11 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [3211e73](https://github.com/softvisio-node/webpack/commit/3211e73); 👬 zdm)
+- style: update .npmrc (● [3211e73](https://github.com/c0rejs/webpack/commit/3211e73); 👬 zdm)
 
-Compare with the previous release: [v1.6.10](https://github.com/softvisio-node/webpack/compare/v1.6.10...v1.6.11)
+Compare with the previous release: [v1.6.10](https://github.com/c0rejs/webpack/compare/v1.6.10...v1.6.11)
 
 ### v1.6.10 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [782937b](https://github.com/softvisio-node/webpack/commit/782937b); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [782937b](https://github.com/c0rejs/webpack/commit/782937b); 👬 zdm)
 
-Compare with the previous release: [v1.6.9](https://github.com/softvisio-node/webpack/compare/v1.6.9...v1.6.10)
+Compare with the previous release: [v1.6.9](https://github.com/c0rejs/webpack/compare/v1.6.9...v1.6.10)
 
 ### v1.6.9 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [11c1bcf](https://github.com/softvisio-node/webpack/commit/11c1bcf); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [11c1bcf](https://github.com/c0rejs/webpack/commit/11c1bcf); 👬 zdm)
 
-Compare with the previous release: [v1.6.8](https://github.com/softvisio-node/webpack/compare/v1.6.8...v1.6.9)
+Compare with the previous release: [v1.6.8](https://github.com/c0rejs/webpack/compare/v1.6.8...v1.6.9)
 
 ### v1.6.8 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [890c67e](https://github.com/softvisio-node/webpack/commit/890c67e); 👬 zdm)
+- style: lint (● [890c67e](https://github.com/c0rejs/webpack/commit/890c67e); 👬 zdm)
 
-Compare with the previous release: [v1.6.7](https://github.com/softvisio-node/webpack/compare/v1.6.7...v1.6.8)
+Compare with the previous release: [v1.6.7](https://github.com/c0rejs/webpack/compare/v1.6.7...v1.6.8)
 
 ### v1.6.7 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [5b727ae](https://github.com/softvisio-node/webpack/commit/5b727ae); 👬 zdm)
+- docs: update (● [5b727ae](https://github.com/c0rejs/webpack/commit/5b727ae); 👬 zdm)
 
-Compare with the previous release: [v1.6.6](https://github.com/softvisio-node/webpack/compare/v1.6.6...v1.6.7)
+Compare with the previous release: [v1.6.6](https://github.com/c0rejs/webpack/compare/v1.6.6...v1.6.7)
 
 ### v1.6.6 (2025-07-14)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: make build status blink (● [e7e5378](https://github.com/softvisio-node/webpack/commit/e7e5378); 👬 zdm)
+- \[PATCH] refactor: make build status blink (● [e7e5378](https://github.com/c0rejs/webpack/commit/e7e5378); 👬 zdm)
 
-Compare with the previous release: [v1.6.5](https://github.com/softvisio-node/webpack/compare/v1.6.5...v1.6.6)
+Compare with the previous release: [v1.6.5](https://github.com/c0rejs/webpack/compare/v1.6.5...v1.6.6)
 
 ### v1.6.5 (2025-07-09)
 
 **Bug fixes:**
 
-- \[PATCH] fix: destroy dev server proxy stream (● [f2e3f98](https://github.com/softvisio-node/webpack/commit/f2e3f98); 👬 zdm)
+- \[PATCH] fix: destroy dev server proxy stream (● [f2e3f98](https://github.com/c0rejs/webpack/commit/f2e3f98); 👬 zdm)
 
-Compare with the previous release: [v1.6.4](https://github.com/softvisio-node/webpack/compare/v1.6.4...v1.6.5)
+Compare with the previous release: [v1.6.4](https://github.com/c0rejs/webpack/compare/v1.6.4...v1.6.5)
 
 ### v1.6.4 (2025-07-04)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix url format in schemas (● [7aaed61](https://github.com/softvisio-node/webpack/commit/7aaed61); 👬 zdm)
+- \[PATCH] fix: fix url format in schemas (● [7aaed61](https://github.com/c0rejs/webpack/commit/7aaed61); 👬 zdm)
 
-Compare with the previous release: [v1.6.3](https://github.com/softvisio-node/webpack/compare/v1.6.3...v1.6.4)
+Compare with the previous release: [v1.6.3](https://github.com/c0rejs/webpack/compare/v1.6.3...v1.6.4)
 
 ### v1.6.3 (2025-07-03)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: add cli negated shorts (● [a4edbd5](https://github.com/softvisio-node/webpack/commit/a4edbd5); 👬 zdm)
+- \[PATCH] refactor: add cli negated shorts (● [a4edbd5](https://github.com/c0rejs/webpack/commit/a4edbd5); 👬 zdm)
 
 **Other changes:**
 
-- build(deps): bump @c0rejs/core 7.172.0 (● [5c6857e](https://github.com/softvisio-node/webpack/commit/5c6857e); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0 (● [5c6857e](https://github.com/c0rejs/webpack/commit/5c6857e); 👬 zdm)
 
-- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/c0rejs/webpack/commit/191fb4b); 👬 zdm)
 
-- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/c0rejs/webpack/commit/73eae03); 👬 zdm)
 
-- style: use uppercase crypto constants (● [4006240](https://github.com/softvisio-node/webpack/commit/4006240); 👬 zdm)
+- style: use uppercase crypto constants (● [4006240](https://github.com/c0rejs/webpack/commit/4006240); 👬 zdm)
 
 **Included pre-releases:**
 
-- build(release): release v1.6.3-alpha.0 (● [aa7ec22](https://github.com/softvisio-node/webpack/commit/aa7ec22); 👬 zdm)
+- build(release): release v1.6.3-alpha.0 (● [aa7ec22](https://github.com/c0rejs/webpack/commit/aa7ec22); 👬 zdm)
 
-- build(release): release v1.6.3-alpha.1 (● [9cb6a91](https://github.com/softvisio-node/webpack/commit/9cb6a91); 👬 zdm)
+- build(release): release v1.6.3-alpha.1 (● [9cb6a91](https://github.com/c0rejs/webpack/commit/9cb6a91); 👬 zdm)
 
-- build(release): release v1.6.3-alpha.2 (● [2926244](https://github.com/softvisio-node/webpack/commit/2926244); 👬 zdm)
+- build(release): release v1.6.3-alpha.2 (● [2926244](https://github.com/c0rejs/webpack/commit/2926244); 👬 zdm)
 
-Compare with the previous release: [v1.6.2](https://github.com/softvisio-node/webpack/compare/v1.6.2...v1.6.3)
+Compare with the previous release: [v1.6.2](https://github.com/c0rejs/webpack/compare/v1.6.2...v1.6.3)
 
 ### v1.6.3-alpha.2 (2025-07-01)
 
 **Other changes:**
 
-- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/softvisio-node/webpack/commit/73eae03); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [73eae03](https://github.com/c0rejs/webpack/commit/73eae03); 👬 zdm)
 
-Compare with the previous release: [v1.6.3-alpha.1](https://github.com/softvisio-node/webpack/compare/v1.6.3-alpha.1...v1.6.3-alpha.2)
+Compare with the previous release: [v1.6.3-alpha.1](https://github.com/c0rejs/webpack/compare/v1.6.3-alpha.1...v1.6.3-alpha.2)
 
 ### v1.6.3-alpha.1 (2025-07-01)
 
 **Other changes:**
 
-- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/softvisio-node/webpack/commit/191fb4b); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.0 (● [191fb4b](https://github.com/c0rejs/webpack/commit/191fb4b); 👬 zdm)
 
-Compare with the previous release: [v1.6.3-alpha.0](https://github.com/softvisio-node/webpack/compare/v1.6.3-alpha.0...v1.6.3-alpha.1)
+Compare with the previous release: [v1.6.3-alpha.0](https://github.com/c0rejs/webpack/compare/v1.6.3-alpha.0...v1.6.3-alpha.1)
 
 ### v1.6.3-alpha.0 (2025-07-01)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: add cli negated shorts (● [a4edbd5](https://github.com/softvisio-node/webpack/commit/a4edbd5); 👬 zdm)
+- \[PATCH] refactor: add cli negated shorts (● [a4edbd5](https://github.com/c0rejs/webpack/commit/a4edbd5); 👬 zdm)
 
-Compare with the previous release: [v1.6.2](https://github.com/softvisio-node/webpack/compare/v1.6.2...v1.6.3-alpha.0)
+Compare with the previous release: [v1.6.2](https://github.com/c0rejs/webpack/compare/v1.6.2...v1.6.3-alpha.0)
 
 ### v1.6.2 (2025-06-18)
 
 **Other changes:**
 
-- style: fix empty console log (● [5611999](https://github.com/softvisio-node/webpack/commit/5611999); 👬 zdm)
+- style: fix empty console log (● [5611999](https://github.com/c0rejs/webpack/commit/5611999); 👬 zdm)
 
-Compare with the previous release: [v1.6.1](https://github.com/softvisio-node/webpack/compare/v1.6.1...v1.6.2)
+Compare with the previous release: [v1.6.1](https://github.com/c0rejs/webpack/compare/v1.6.1...v1.6.2)
 
 ### v1.6.1 (2025-06-11)
 
@@ -162,7 +162,7 @@ Compare with the previous release: [v1.6.1](https://github.com/softvisio-node/we
 
 - \[PATCH] refactor: rename ansi classs (● db8d403; 👬 zdm)
 
-Compare with the previous release: [v1.6.0](https://github.com/softvisio-node/webpack/compare/v1.6.0...v1.6.1)
+Compare with the previous release: [v1.6.0](https://github.com/c0rejs/webpack/compare/v1.6.0...v1.6.1)
 
 ### v1.6.0 (2025-06-09)
 
@@ -170,7 +170,7 @@ Compare with the previous release: [v1.6.0](https://github.com/softvisio-node/we
 
 - \[MINOR] feat: rename GIT_ID to BUILD_VERSION (👬 zdm)
 
-Compare with the previous release: [v1.5.13](https://github.com/softvisio-node/webpack/compare/v1.5.13...v1.6.0)
+Compare with the previous release: [v1.5.13](https://github.com/c0rejs/webpack/compare/v1.5.13...v1.6.0)
 
 ### v1.5.13 (2025-06-07)
 
@@ -178,7 +178,7 @@ Compare with the previous release: [v1.5.13](https://github.com/softvisio-node/w
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v1.5.12](https://github.com/softvisio-node/webpack/compare/v1.5.12...v1.5.13)
+Compare with the previous release: [v1.5.12](https://github.com/c0rejs/webpack/compare/v1.5.12...v1.5.13)
 
 ### v1.5.12 (2025-06-01)
 
@@ -186,7 +186,7 @@ Compare with the previous release: [v1.5.12](https://github.com/softvisio-node/w
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v1.5.11](https://github.com/softvisio-node/webpack/compare/v1.5.11...v1.5.12)
+Compare with the previous release: [v1.5.11](https://github.com/c0rejs/webpack/compare/v1.5.11...v1.5.12)
 
 ### v1.5.11 (2025-05-31)
 
@@ -194,7 +194,7 @@ Compare with the previous release: [v1.5.11](https://github.com/softvisio-node/w
 
 - \[PATCH] chore: linkify devserver listen url (👬 zdm)
 
-Compare with the previous release: [`v1.5.10...v1.5.11`](https://github.com/softvisio-node/webpack/compare/v1.5.10...v1.5.11)
+Compare with the previous release: [`v1.5.10...v1.5.11`](https://github.com/c0rejs/webpack/compare/v1.5.10...v1.5.11)
 
 ### 1.5.10 (2025-04-23)
 
@@ -202,7 +202,7 @@ Other changes:
 
 - chore: update component constructor
 
-Compare with the previous release: [`v1.5.9...v1.5.10`](https://github.com/softvisio-node/webpack/compare/v1.5.9...v1.5.10)
+Compare with the previous release: [`v1.5.9...v1.5.10`](https://github.com/c0rejs/webpack/compare/v1.5.9...v1.5.10)
 
 ### 1.5.9 (2025-04-04)
 
@@ -210,7 +210,7 @@ Other changes:
 
 - chore: fix env config validation
 
-Compare with the previous release: [`v1.5.8...v1.5.9`](https://github.com/softvisio-node/webpack/compare/v1.5.8...v1.5.9)
+Compare with the previous release: [`v1.5.8...v1.5.9`](https://github.com/c0rejs/webpack/compare/v1.5.8...v1.5.9)
 
 ### 1.5.8 (2025-03-26)
 
@@ -218,7 +218,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v1.5.7...v1.5.8`](https://github.com/softvisio-node/webpack/compare/v1.5.7...v1.5.8)
+Compare with the previous release: [`v1.5.7...v1.5.8`](https://github.com/c0rejs/webpack/compare/v1.5.7...v1.5.8)
 
 ### 1.5.7 (2025-03-16)
 
@@ -226,7 +226,7 @@ Other changes:
 
 - chore: enabled ajv strict mode
 
-Compare with the previous release: [`v1.5.6...v1.5.7`](https://github.com/softvisio-node/webpack/compare/v1.5.6...v1.5.7)
+Compare with the previous release: [`v1.5.6...v1.5.7`](https://github.com/c0rejs/webpack/compare/v1.5.6...v1.5.7)
 
 ### 1.5.6 (2025-03-04)
 
@@ -234,7 +234,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.5.5...v1.5.6`](https://github.com/softvisio-node/webpack/compare/v1.5.5...v1.5.6)
+Compare with the previous release: [`v1.5.5...v1.5.6`](https://github.com/c0rejs/webpack/compare/v1.5.5...v1.5.6)
 
 ### 1.5.5 (2025-03-04)
 
@@ -242,7 +242,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.5.4...v1.5.5`](https://github.com/softvisio-node/webpack/compare/v1.5.4...v1.5.5)
+Compare with the previous release: [`v1.5.4...v1.5.5`](https://github.com/c0rejs/webpack/compare/v1.5.4...v1.5.5)
 
 ### 1.5.4 (2025-03-01)
 
@@ -250,7 +250,7 @@ Other changes:
 
 - chore: bump dependencies
 
-Compare with the previous release: [`v1.5.3...v1.5.4`](https://github.com/softvisio-node/webpack/compare/v1.5.3...v1.5.4)
+Compare with the previous release: [`v1.5.3...v1.5.4`](https://github.com/c0rejs/webpack/compare/v1.5.3...v1.5.4)
 
 ### 1.5.3 (2025-02-27)
 
@@ -258,7 +258,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v1.5.2...v1.5.3`](https://github.com/softvisio-node/webpack/compare/v1.5.2...v1.5.3)
+Compare with the previous release: [`v1.5.2...v1.5.3`](https://github.com/c0rejs/webpack/compare/v1.5.2...v1.5.3)
 
 ### 1.5.2 (2025-02-26)
 
@@ -266,7 +266,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v1.5.1...v1.5.2`](https://github.com/softvisio-node/webpack/compare/v1.5.1...v1.5.2)
+Compare with the previous release: [`v1.5.1...v1.5.2`](https://github.com/c0rejs/webpack/compare/v1.5.1...v1.5.2)
 
 ### 1.5.1 (2025-02-19)
 
@@ -274,7 +274,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v1.5.0...v1.5.1`](https://github.com/softvisio-node/webpack/compare/v1.5.0...v1.5.1)
+Compare with the previous release: [`v1.5.0...v1.5.1`](https://github.com/c0rejs/webpack/compare/v1.5.0...v1.5.1)
 
 ### 1.5.0 (2025-02-03)
 
@@ -282,7 +282,7 @@ Features:
 
 - feat: refactor read / write config
 
-Compare with the previous release: [`v1.4.19...v1.5.0`](https://github.com/softvisio-node/webpack/compare/v1.4.19...v1.5.0)
+Compare with the previous release: [`v1.4.19...v1.5.0`](https://github.com/c0rejs/webpack/compare/v1.4.19...v1.5.0)
 
 ### 1.4.19 (2025-01-08)
 
@@ -290,7 +290,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.4.18 ... v1.4.19](https://github.com/softvisio-node/webpack/compare/v1.4.18...v1.4.19)
+[Compare with the previous release: v1.4.18 ... v1.4.19](https://github.com/c0rejs/webpack/compare/v1.4.18...v1.4.19)
 
 ### 1.4.18 (2024-12-27)
 
@@ -300,7 +300,7 @@ Other changes:
 - chore: refactor certificates
 - chore: update crypto module
 
-[Compare with the previous release: v1.4.17 ... v1.4.18](https://github.com/softvisio-node/webpack/compare/v1.4.17...v1.4.18)
+[Compare with the previous release: v1.4.17 ... v1.4.18](https://github.com/c0rejs/webpack/compare/v1.4.17...v1.4.18)
 
 ### 1.4.17 (2024-12-07)
 
@@ -308,7 +308,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v1.4.16 ... v1.4.17](https://github.com/softvisio-node/webpack/compare/v1.4.16...v1.4.17)
+[Compare with the previous release: v1.4.16 ... v1.4.17](https://github.com/c0rejs/webpack/compare/v1.4.16...v1.4.17)
 
 ### 1.4.16 (2024-12-05)
 
@@ -316,7 +316,7 @@ Other changes:
 
 - chore: update local certificates names
 
-[Compare with the previous release: v1.4.15 ... v1.4.16](https://github.com/softvisio-node/webpack/compare/v1.4.15...v1.4.16)
+[Compare with the previous release: v1.4.15 ... v1.4.16](https://github.com/c0rejs/webpack/compare/v1.4.15...v1.4.16)
 
 ### 1.4.15 (2024-11-27)
 
@@ -324,7 +324,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.4.14 ... v1.4.15](https://github.com/softvisio-node/webpack/compare/v1.4.14...v1.4.15)
+[Compare with the previous release: v1.4.14 ... v1.4.15](https://github.com/c0rejs/webpack/compare/v1.4.14...v1.4.15)
 
 ### 1.4.14 (2024-11-27)
 
@@ -332,7 +332,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.4.13 ... v1.4.14](https://github.com/softvisio-node/webpack/compare/v1.4.13...v1.4.14)
+[Compare with the previous release: v1.4.13 ... v1.4.14](https://github.com/c0rejs/webpack/compare/v1.4.13...v1.4.14)
 
 ### 1.4.13 (2024-11-25)
 
@@ -340,7 +340,7 @@ Other changes:
 
 - chore: update certificates resource
 
-[Compare with the previous release: v1.4.12 ... v1.4.13](https://github.com/softvisio-node/webpack/compare/v1.4.12...v1.4.13)
+[Compare with the previous release: v1.4.12 ... v1.4.13](https://github.com/c0rejs/webpack/compare/v1.4.12...v1.4.13)
 
 ### 1.4.12 (2024-11-10)
 
@@ -348,7 +348,7 @@ Other changes:
 
 - chore: chmod files
 
-[Compare with the previous release: v1.4.11 ... v1.4.12](https://github.com/softvisio-node/webpack/compare/v1.4.11...v1.4.12)
+[Compare with the previous release: v1.4.11 ... v1.4.12](https://github.com/c0rejs/webpack/compare/v1.4.11...v1.4.12)
 
 ### 1.4.11 (2024-11-07)
 
@@ -356,7 +356,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.4.10 ... v1.4.11](https://github.com/softvisio-node/webpack/compare/v1.4.10...v1.4.11)
+[Compare with the previous release: v1.4.10 ... v1.4.11](https://github.com/c0rejs/webpack/compare/v1.4.10...v1.4.11)
 
 ### 1.4.10 (2024-10-29)
 
@@ -364,31 +364,31 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v1.4.9 ... v1.4.10](https://github.com/softvisio-node/webpack/compare/v1.4.9...v1.4.10)
+[Compare with the previous release: v1.4.9 ... v1.4.10](https://github.com/c0rejs/webpack/compare/v1.4.9...v1.4.10)
 
 ### 1.4.9 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/webpack/compare/v1.4.8...v1.4.9)
+[Full list of the changes](https://github.com/c0rejs/webpack/compare/v1.4.8...v1.4.9)
 
 ### 1.4.8 (2024-10-18)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/webpack/compare/v1.4.7...v1.4.8)
+[Full list of the changes](https://github.com/c0rejs/webpack/compare/v1.4.7...v1.4.8)
 
 ### 1.4.7 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/webpack/compare/v1.4.6...v1.4.7)
+[Full list of the changes](https://github.com/c0rejs/webpack/compare/v1.4.6...v1.4.7)
 
 ### 1.4.6 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/webpack/compare/v1.4.5...v1.4.6)
+[Full list of the changes](https://github.com/c0rejs/webpack/compare/v1.4.5...v1.4.6)
 
 ### 1.4.5 (2024-10-09)
 
