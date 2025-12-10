@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.6.16 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [13ec87b](https://github.com/c0rejs/webpack/commit/13ec87b), [db6d1b8](https://github.com/c0rejs/webpack/commit/db6d1b8); 👬 zdm)
+
+- chore(metadata): update package metadata (● [07a6a01](https://github.com/c0rejs/webpack/commit/07a6a01); 👬 zdm)
+
+Compare with the previous release: [v1.6.15](https://github.com/c0rejs/webpack/compare/v1.6.15...v1.6.16)
+
 ### v1.6.15 (2025-11-19)
 
 **Other changes:**
