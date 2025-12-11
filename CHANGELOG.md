@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.6.17 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [65411fb](https://github.com/c0rejs/webpack/commit/65411fb); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [11c6c9a](https://github.com/c0rejs/webpack/commit/11c6c9a); 👬 zdm)
+
+Compare with the previous release: [v1.6.16](https://github.com/c0rejs/webpack/compare/v1.6.16...v1.6.17)
+
 ### v1.6.16 (2025-12-10)
 
 **Other changes:**
