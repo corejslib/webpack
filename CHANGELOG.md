@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.18 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [cd74608](https://github.com/c0rejs/webpack/commit/cd74608); 👬 zdm)
+
+Compare with the previous release: [v1.6.17](https://github.com/c0rejs/webpack/compare/v1.6.17...v1.6.18)
+
 ### v1.6.17 (2025-12-11)
 
 **Bug fixes:**
