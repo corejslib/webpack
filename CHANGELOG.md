@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.19 (2026-01-27)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [bc6bc01](https://github.com/c0rejs/webpack/commit/bc6bc01); 👬 zdm)
+
+Compare with the previous release: [v1.6.18](https://github.com/c0rejs/webpack/compare/v1.6.18...v1.6.19)
+
 ### v1.6.18 (2026-01-05)
 
 **Other changes:**
