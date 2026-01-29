@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.6.21 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.6.20](https://github.com/c0rejs/webpack/compare/v1.6.20...v1.6.21)
+
 ### v1.6.20 (2026-01-28)
 
 **Other changes:**
