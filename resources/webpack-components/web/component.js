@@ -241,21 +241,21 @@ export default class extends WebpackComponent {
                     // .po
                     {
                         "test": /\.po$/,
-                        "loader": "@c0rejs/webpack/loaders/po",
+                        "loader": "@corejslib/webpack/loaders/po",
                         "options": { PoFile },
                     },
 
                     // .json
                     {
                         "test": /\.json$/,
-                        "loader": "@c0rejs/webpack/loaders/json",
+                        "loader": "@corejslib/webpack/loaders/json",
                         "options": { json5 },
                     },
 
                     // .yaml
                     {
                         "test": /\.yaml$/,
-                        "loader": "@c0rejs/webpack/loaders/yaml",
+                        "loader": "@corejslib/webpack/loaders/yaml",
                         "options": { yaml },
                     },
                 ],

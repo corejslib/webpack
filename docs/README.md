@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @c0rejs/webpack
+npm install @corejslib/webpack
 ```
 
 ## Usage
