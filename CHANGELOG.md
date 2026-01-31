@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.22 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [3a4dbf6](https://github.com/corejslib/webpack/commit/3a4dbf6); 👬 zdm)
+
+Compare with the previous release: [v1.6.21](https://github.com/corejslib/webpack/compare/v1.6.21...v1.6.22)
+
 ### v1.6.21 (2026-01-29)
 
 No changes since the previous release.
