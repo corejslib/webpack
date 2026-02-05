@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.23 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [10d1cc8](https://github.com/corejslib/webpack/commit/10d1cc8); 👬 zdm)
+
+Compare with the previous release: [v1.6.22](https://github.com/corejslib/webpack/compare/v1.6.22...v1.6.23)
+
 ### v1.6.22 (2026-01-31)
 
 **Other changes:**
