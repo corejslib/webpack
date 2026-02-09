@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.24 (2026-02-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix func names (● [f1d80f3](https://github.com/corejslib/webpack/commit/f1d80f3); 👬 zdm)
+
+Compare with the previous release: [v1.6.23](https://github.com/corejslib/webpack/compare/v1.6.23...v1.6.24)
+
 ### v1.6.23 (2026-02-05)
 
 **Other changes:**
