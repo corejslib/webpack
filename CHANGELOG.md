@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.25 (2026-03-04)
+
+**Other changes:**
+
+- build(deps): update (● [e77806c](https://github.com/corejslib/webpack/commit/e77806c); 👬 zdm)
+
+Compare with the previous release: [v1.6.24](https://github.com/corejslib/webpack/compare/v1.6.24...v1.6.25)
+
 ### v1.6.24 (2026-02-09)
 
 **Bug fixes:**
