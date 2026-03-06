@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.26 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [5fc6469](https://github.com/corejslib/webpack/commit/5fc6469); 👬 zdm)
+
+Compare with the previous release: [v1.6.25](https://github.com/corejslib/webpack/compare/v1.6.25...v1.6.26)
+
 ### v1.6.25 (2026-03-04)
 
 **Other changes:**

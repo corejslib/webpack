@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/webpack",
-    "version": "1.6.25",
+    "version": "1.6.26",
     "description": "Webpack wrapper",
     "keywords": [
         "softvisio",
