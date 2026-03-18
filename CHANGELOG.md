@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.27 (2026-03-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [dfe1fba](https://github.com/corejslib/webpack/commit/dfe1fba); 👬 zdm)
+
+Compare with the previous release: [v1.6.26](https://github.com/corejslib/webpack/compare/v1.6.26...v1.6.27)
+
 ### v1.6.26 (2026-03-06)
 
 **Other changes:**
