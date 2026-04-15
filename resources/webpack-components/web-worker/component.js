@@ -47,11 +47,11 @@ export default class extends WebpackComponent {
             },
             "cache": this.webpackCacheOptions,
 
-            "externals": [
+            // "externals": [
 
-                //
-                /^node:/,
-            ],
+            //     //
+            //     /^node:/,
+            // ],
 
             "entry": {
                 "worker": {

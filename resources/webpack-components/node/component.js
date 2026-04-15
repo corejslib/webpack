@@ -29,11 +29,11 @@ export default class extends WebpackComponent {
             },
             "cache": this.webpackCacheOptions,
 
-            "externals": [
+            // "externals": [
 
-                //
-                /^node:/,
-            ],
+            //     //
+            //     /^node:/,
+            // ],
 
             "entry": {
                 "main": this.context + "/bin/main.js",
