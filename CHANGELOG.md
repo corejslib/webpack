@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.28 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: externalize node: modules (● [dc3e6ca](https://github.com/corejslib/webpack/commit/dc3e6ca), [3c54de1](https://github.com/corejslib/webpack/commit/3c54de1); 👬 zdm)
+
+Compare with the previous release: [v1.6.27](https://github.com/corejslib/webpack/compare/v1.6.27...v1.6.28)
+
 ### v1.6.27 (2026-03-18)
 
 **Other changes:**
