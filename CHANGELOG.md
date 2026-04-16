@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.29 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix plugin node-protocol usage (● [bebc7e1](https://github.com/corejslib/webpack/commit/bebc7e1); 👬 zdm)
+
+Compare with the previous release: [v1.6.28](https://github.com/corejslib/webpack/compare/v1.6.28...v1.6.29)
+
 ### v1.6.28 (2026-04-16)
 
 **Bug fixes:**
