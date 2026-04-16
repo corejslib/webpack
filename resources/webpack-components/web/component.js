@@ -38,12 +38,6 @@ export default class extends WebpackComponent {
             },
             "cache": this.webpackCacheOptions,
 
-            // "externals": [
-
-            //     //
-            //     /^node:/,
-            // ],
-
             "entry": {
                 "app": "@",
             },
