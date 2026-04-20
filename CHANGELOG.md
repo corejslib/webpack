@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.30 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [ddd9ea1](https://github.com/corejslib/webpack/commit/ddd9ea1); 👬 zdm)
+
+Compare with the previous release: [v1.6.29...v1.6.30](https://github.com/corejslib/webpack/compare/v1.6.29...v1.6.30)
+
 ### v1.6.29 (2026-04-16)
 
 **Bug fixes:**
