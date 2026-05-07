@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.31 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [80866bd](https://github.com/corejslib/webpack/commit/80866bd); 👬 zdm)
+
+Compare with the previous release: [v1.6.30...v1.6.31](https://github.com/corejslib/webpack/compare/v1.6.30...v1.6.31)
+
 ### v1.6.30 (2026-04-20)
 
 **Code refactoring:**
