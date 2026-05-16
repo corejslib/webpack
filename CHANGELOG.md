@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.33 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [13fc2b0](https://github.com/corejslib/webpack/commit/13fc2b0); 👬 zdm)
+
+Compare with the previous release: [v1.6.32...v1.6.33](https://github.com/corejslib/webpack/compare/v1.6.32...v1.6.33)
+
 ### v1.6.32 (2026-05-16)
 
 **Other changes:**
