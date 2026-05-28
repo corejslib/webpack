@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.34 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [6031c1f](https://github.com/corejslib/webpack/commit/6031c1f); 👬 zdm)
+
+Compare with the previous release: [v1.6.33...v1.6.34](https://github.com/corejslib/webpack/compare/v1.6.33...v1.6.34)
+
 ### v1.6.33 (2026-05-16)
 
 **Other changes:**
