@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.35 (2026-06-17)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix json loader (● [6fb70f1](https://github.com/corejslib/webpack/commit/6fb70f1); 👬 zdm)
+
+Compare with the previous release: [v1.6.34...v1.6.35](https://github.com/corejslib/webpack/compare/v1.6.34...v1.6.35)
+
 ### v1.6.34 (2026-05-28)
 
 **Other changes:**
