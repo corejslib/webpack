@@ -85,7 +85,7 @@ export default class extends WebpackComponent {
 
                     // js
                     {
-                        "test": /\.[cm]?jsx?$/,
+                        "test": /\.[cm]?jsx?$/v,
                         "resolve": {
                             "fullySpecified": false,
                         },

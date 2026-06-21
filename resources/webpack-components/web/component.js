@@ -73,13 +73,13 @@ export default class extends WebpackComponent {
                     "cacheGroups": {
                         "vendors": {
                             "name": "vendors",
-                            "test": /[/\\]node_modules[/\\]/,
+                            "test": /[\/\\]node_modules[\/\\]/v,
                             "priority": -10,
                             "chunks": "initial",
                         },
                         "firebase": {
                             "name": "firebase",
-                            "test": /@firebase[/\\]/,
+                            "test": /@firebase[\/\\]/v,
                             "priority": -9,
                             "chunks": "all",
                         },
@@ -117,7 +117,7 @@ export default class extends WebpackComponent {
 
                     // js
                     {
-                        "test": /\.[cm]?jsx?$/,
+                        "test": /\.[cm]?jsx?$/v,
                         "resolve": {
                             "fullySpecified": false,
                         },
@@ -125,7 +125,7 @@ export default class extends WebpackComponent {
 
                             // web workers *.worker.js
                             {
-                                "test": /\.worker\.[cm]?js$/,
+                                "test": /\.worker\.[cm]?js$/v,
 
                                 "type": "asset/resource",
                                 "generator": {
@@ -151,7 +151,7 @@ export default class extends WebpackComponent {
 
                     // vue
                     {
-                        "test": /\.vue$/,
+                        "test": /\.vue$/v,
                         "use": [
                             {
                                 "loader": "vue-loader",
@@ -172,7 +172,7 @@ export default class extends WebpackComponent {
 
                     // images
                     {
-                        "test": /\.(png|jpe?g|gif|webp|avif|svg)(\?.*)?$/,
+                        "test": /\.(png|jpe?g|gif|webp|avif|svg)(\?.*)?$/v,
                         "type": "asset/resource",
                         "generator": {
                             "filename": "img/[name].[hash][ext][query]",
@@ -181,7 +181,7 @@ export default class extends WebpackComponent {
 
                     // media
                     {
-                        "test": /\.(mp4|webm|ogg|mp3|wav|flac|aac)(\?.*)?$/,
+                        "test": /\.(mp4|webm|ogg|mp3|wav|flac|aac)(\?.*)?$/v,
                         "type": "asset/resource",
                         "generator": {
                             "filename": "media/[name].[hash][ext][query]",
@@ -190,7 +190,7 @@ export default class extends WebpackComponent {
 
                     // fonts
                     {
-                        "test": /\.(woff2?|eot|ttf|otf)(\?.*)?$/i,
+                        "test": /\.(woff2?|eot|ttf|otf)(\?.*)?$/iv,
                         "type": "asset/resource",
                         "generator": {
                             "filename": "fonts/[name].[hash][ext][query]",
@@ -199,7 +199,7 @@ export default class extends WebpackComponent {
 
                     // css
                     {
-                        "test": /\.css$/,
+                        "test": /\.css$/v,
                         "use": [
                             this.isDevServer
                                 ? {
@@ -240,21 +240,21 @@ export default class extends WebpackComponent {
 
                     // .po
                     {
-                        "test": /\.po$/,
+                        "test": /\.po$/v,
                         "loader": "@corejslib/webpack/loaders/po",
                         "options": { PoFile },
                     },
 
                     // .json
                     {
-                        "test": /\.json$/,
+                        "test": /\.json$/v,
                         "loader": "@corejslib/webpack/loaders/json",
                         "options": { json5 },
                     },
 
                     // .yaml
                     {
-                        "test": /\.yaml$/,
+                        "test": /\.yaml$/v,
                         "loader": "@corejslib/webpack/loaders/yaml",
                         "options": { yaml },
                     },

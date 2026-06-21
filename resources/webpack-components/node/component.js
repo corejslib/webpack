@@ -64,13 +64,13 @@ export default class extends WebpackComponent {
                     "cacheGroups": {
                         "vendors": {
                             "name": "vendors",
-                            "test": /[/\\]node_modules[/\\]/,
+                            "test": /[\/\\]node_modules[\/\\]/v,
                             "priority": -10,
                             "chunks": "initial",
                         },
                         "firebase": {
                             "name": "firebase",
-                            "test": /@firebase[/\\]/,
+                            "test": /@firebase[\/\\]/v,
                             "priority": -9,
                             "chunks": "all",
                         },
@@ -92,7 +92,7 @@ export default class extends WebpackComponent {
 
                     // js
                     {
-                        "test": /\.[cm]?jsx?$/,
+                        "test": /\.[cm]?jsx?$/v,
                         "resolve": {
                             "fullySpecified": false,
                         },
@@ -111,7 +111,7 @@ export default class extends WebpackComponent {
 
                     // *.node
                     {
-                        "test": /\.node$/,
+                        "test": /\.node$/v,
                         "loader": "node-loader",
                     },
                 ],
