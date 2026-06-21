@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.37 (2026-06-21)
+
+**Other changes:**
+
+- style: lint (● [6d756db](https://github.com/corejslib/webpack/commit/6d756db); 👬 zdm)
+
+Compare with the previous release: [v1.6.36...v1.6.37](https://github.com/corejslib/webpack/compare/v1.6.36...v1.6.37)
+
 ### v1.6.36 (2026-06-17)
 
 **Bug fixes:**
