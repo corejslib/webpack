@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.1 (2026-09-13)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update dev-server options (● [e026ed0](https://github.com/corejslib/webpack/commit/e026ed0), [739aa35](https://github.com/corejslib/webpack/commit/739aa35); 👬 zdm)
+
+Compare with the previous release: [v1.7.0...v1.7.1](https://github.com/corejslib/webpack/compare/v1.7.0...v1.7.1)
+
 ### v1.7.0 (2026-09-02)
 
 **New features:**
