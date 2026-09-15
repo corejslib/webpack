@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.7.2 (2026-09-15)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use websocket server path config in dev server (● [54883d8](https://github.com/corejslib/webpack/commit/54883d8); 👬 zdm)
+
+    This updates the webpack dev server websocket configuration to use the ws server options object and adjusts proxy context handling to match the websocket path.
+
+Compare with the previous release: [v1.7.1...v1.7.2](https://github.com/corejslib/webpack/compare/v1.7.1...v1.7.2)
+
 ### v1.7.1 (2026-09-13)
 
 **Code refactoring:**
