@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.3 (2026-09-15)
+
+**Other changes:**
+
+- build(deps): adjust peer dependencies (● [84a54c4](https://github.com/corejslib/webpack/commit/84a54c4); 👬 zdm)
+
+Compare with the previous release: [v1.7.2...v1.7.3](https://github.com/corejslib/webpack/compare/v1.7.2...v1.7.3)
+
 ### v1.7.2 (2026-09-15)
 
 **Bug fixes:**
