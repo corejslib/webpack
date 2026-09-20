@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.4 (2026-09-20)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove short flag config from CLI options (● [6ea8249](https://github.com/corejslib/webpack/commit/6ea8249); 👬 zdm)
+
+Compare with the previous release: [v1.7.3...v1.7.4](https://github.com/corejslib/webpack/compare/v1.7.3...v1.7.4)
+
 ### v1.7.3 (2026-09-15)
 
 **Other changes:**
