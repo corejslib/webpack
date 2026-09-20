@@ -15,7 +15,6 @@ const cli = {
             "schema": { "enum": [ "development", "production" ] },
         },
         "cordova": {
-            "short": false,
             "description": "build for cordova",
             "default": false,
             "schema": { "type": "boolean" },
@@ -57,7 +56,6 @@ const cli = {
             "schema": { "type": "integer", "format": "random-ip-port" },
         },
         "proxy-url": {
-            "short": false,
             "description": "proxy URL",
             "schema": { "type": "string", "format": "uri" },
         },
