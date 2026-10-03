@@ -456,7 +456,7 @@ Compare with the previous release: [v1.6.0](https://github.com/c0rejs/webpack/co
 
 **Features:**
 
-- \[MINOR] feat: rename GIT\_ID to BUILD\_VERSION (👬 zdm)
+- \[MINOR] feat: rename GIT_ID to BUILD_VERSION (👬 zdm)
 
 Compare with the previous release: [v1.5.13](https://github.com/c0rejs/webpack/compare/v1.5.13...v1.6.0)
 
@@ -888,7 +888,7 @@ Fixes:
 
 Fixes:
 
-- fix: NODE\_PRESERVE\_SYMLINKS removed
+- fix: NODE_PRESERVE_SYMLINKS removed
 
 ### 1.0.69 (2024-08-01)
 
