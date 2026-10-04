@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.5 (2026-10-04)
+
+**Other changes:**
+
+- docs: correct escaped snake_case in md (● [996ab08](https://github.com/corejslib/webpack/commit/996ab08); 👬 zdm)
+
+Compare with the previous release: [v1.7.4...v1.7.5](https://github.com/corejslib/webpack/compare/v1.7.4...v1.7.5)
+
 ### v1.7.4 (2026-09-20)
 
 **Bug fixes:**
