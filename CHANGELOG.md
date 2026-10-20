@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.6 (2026-10-20)
+
+**Other changes:**
+
+- style: improve component validation log messages (● [4482442](https://github.com/corejslib/webpack/commit/4482442); 👬 zdm)
+
+Compare with the previous release: [v1.7.5...v1.7.6](https://github.com/corejslib/webpack/compare/v1.7.5...v1.7.6)
+
 ### v1.7.5 (2026-10-04)
 
 **Other changes:**
