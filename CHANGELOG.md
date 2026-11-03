@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.7 (2026-11-03)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use Temporal for bundle report timestamps (● [07f95f5](https://github.com/corejslib/webpack/commit/07f95f5); 👬 zdm)
+
+Compare with the previous release: [v1.7.6...v1.7.7](https://github.com/corejslib/webpack/compare/v1.7.6...v1.7.7)
+
 ### v1.7.6 (2026-10-20)
 
 **Other changes:**
