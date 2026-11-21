@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.8 (2026-11-21)
+
+**Other changes**:
+
+- style: use rapid blinking for build targets (● [c6f2781](https://github.com/corejslib/webpack/commit/c6f2781); 👬 zdm)
+
+Compare with the previous release: [v1.7.7...v1.7.8](https://github.com/corejslib/webpack/compare/v1.7.7...v1.7.8)
+
 ### v1.7.7 (2026-11-03)
 
 **Code refactoring:**
