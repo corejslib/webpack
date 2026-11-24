@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.9 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: fix cli config (● [8149c47](https://github.com/corejslib/webpack/commit/8149c47); 👬 zdm)
+
+Compare with the previous release: [v1.7.8...v1.7.9](https://github.com/corejslib/webpack/compare/v1.7.8...v1.7.9)
+
 ### v1.7.8 (2026-11-21)
 
 **Other changes**:

@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/webpack",
-    "version": "1.7.8",
+    "version": "1.7.9",
     "description": "Webpack wrapper",
     "keywords": [
         "webpack"
